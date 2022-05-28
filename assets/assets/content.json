@@ -1,0 +1,107 @@
+{
+    "firstname": "Mariana",
+    "lastname": "Anderson",
+    "email": "yasmin@gmail.com",
+    "description": "Marketing Manager",
+    "phone": "+1 555 209 9874",
+    "urls": {
+        "linkedin": "https://www.linkedin.com/in/yasmin"
+    },
+    "objective": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "address": "Paris, France",
+    "skills": [
+        "Input over 20 invoices into Sage per day",
+        "Perform monthly reconciliation of over 300 items, verify each line, resolve discrepancies",
+        "Create vendor accounts, maintaining and updating them as needed",
+        "Verify and post transactions to appropriate accounts",
+        "Oversee about 15 daily and 75 weekly payments, identify and resolve mistakes as needed"
+    ],
+    "work": [
+        {
+            "company": "Accounts Payable Specialist",
+            "city": "New York",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in",
+            "start": "2014-10-01T00:00:00.000Z",
+            "job": "Marketing Manager",
+            "roles": [
+                "Input over 20 invoices into Sage per day",
+                "Perform monthly reconciliation of over 300 items, verify each line, resolve discrepancies",
+                "Create vendor accounts, maintaining and updating them as needed",
+                "Verify and post transactions to appropriate accounts",
+                "Oversee about 15 daily and 75 weekly payments, identify and resolve mistakes as needed",
+                "Monitor budget, create reports in Excel for Controller to review",
+                "Created simple, intuitive PO template for employee use, reducing processing time by 17%",
+                "Review invoice and receipt matches from other accounting professionals",
+                "Accounts Payable Clerk",
+                "Lewis Expeditions"
+            ]
+        },
+        {
+            "company": "Accounts Payable Specialist",
+            "city": "New York",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in",
+            "start": "2014-10-01T00:00:00.000Z",
+            "job": "Marketing Manager",
+            "roles": [
+                "Input over 20 invoices into Sage per day",
+                "Perform monthly reconciliation of over 300 items, verify each line, resolve discrepancies",
+                "Create vendor accounts, maintaining and updating them as needed",
+                "Verify and post transactions to appropriate accounts",
+                "Oversee about 15 daily and 75 weekly payments, identify and resolve mistakes as needed",
+                "Monitor budget, create reports in Excel for Controller to review",
+                "Created simple, intuitive PO template for employee use, reducing processing time by 17%",
+                "Review invoice and receipt matches from other accounting professionals",
+                "Accounts Payable Clerk",
+                "Lewis Expeditions"
+            ]
+        }, {
+            "company": "Accounts Payable Specialist",
+            "city": "New York",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in",
+            "start": "2014-10-01T00:00:00.000Z",
+            "job": "Marketing Manager",
+            "roles": [
+                "Input over 20 invoices into Sage per day",
+                "Perform monthly reconciliation of over 300 items, verify each line, resolve discrepancies",
+                "Create vendor accounts, maintaining and updating them as needed",
+                "Verify and post transactions to appropriate accounts",
+                "Oversee about 15 daily and 75 weekly payments, identify and resolve mistakes as needed",
+                "Monitor budget, create reports in Excel for Controller to review",
+                "Created simple, intuitive PO template for employee use, reducing processing time by 17%",
+                "Review invoice and receipt matches from other accounting professionals",
+                "Accounts Payable Clerk",
+                "Lewis Expeditions"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "company": "University name",
+            "city": "City",
+            "description": "Degree description",
+            "start": "2012-09-01T00:00:00.000Z",
+            "end": "2014-09-01T00:00:00.000Z",
+            "roles": [
+                "Top of graduating Engineering class"
+            ]
+        },
+        {
+            "company": "University name",
+            "city": "City",
+            "description": "Degree description",
+            "start": "2012-09-01T00:00:00.000Z",
+            "end": "2014-09-01T00:00:00.000Z"
+        },
+        {
+            "company": "University name",
+            "city": "City",
+            "description": "Degree description",
+            "start": "2012-09-01T00:00:00.000Z",
+            "end": "2014-09-01T00:00:00.000Z"
+        }
+    ],
+    "interests": [
+        "Paddeling",
+        "Karaoke"
+    ]
+}
