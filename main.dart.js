@@ -40336,7 +40336,7 @@ q=A.a47(q,B.aO)
 return A.mL(A.b([A.mL(A.b([q,A.fL(A.mL(this.e,B.aO,B.aT),s,s,s,B.Bc,B.cr,s)],r),B.aO,B.aT)],r),B.f9,B.aT)}}
 A.HY.prototype={
 M(a,b){var s=null,r=A.anp("Printing Demo",s,s,s,s,s,s)
-return new A.x8(new A.z5(new A.uV(r,new A.Pr(s,s,1/0,56),s),new A.xW(new A.a0g(),600,s),s),s)}}
+return new A.x8(new A.z5(new A.uV(r,new A.Pr(s,s,1/0,56),s),new A.xW(new A.a0g(),900,s),s),s)}}
 A.a0g.prototype={
 $1(a){return A.Do(a)},
 $S:146}
